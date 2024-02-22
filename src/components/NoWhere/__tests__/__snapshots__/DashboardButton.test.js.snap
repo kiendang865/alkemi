@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BackDashboardButton /> matches snapshot 1`] = `
+<WithStyles(ForwardRef(Button))
+  className="NoWhereDashboardButton-button-1"
+  color="default"
+  onClick={[MockFunction]}
+  variant="raised"
+>
+  Bring me back home!
+</WithStyles(ForwardRef(Button))>
+`;

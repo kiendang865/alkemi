@@ -1,0 +1,6 @@
+{
+    "rinkeby": {
+        "etherscan_url": "http://api-rinkeby.etherscan.io/api?module=account&action=tokentx&address=0xe6a53f96ceca750ef8589c5b376872213aa4f230&startblock=0&endblock=99999999&sort=desc&apikey=63XUQ8X3PXIZ3SUW28CIFGRXGZAGT3THNV",
+        "markets_url": "https://api.alkemi.network/markets"
+    }
+}

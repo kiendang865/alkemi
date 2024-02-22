@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Dashboard /> matches snapshot 1`] = `
+<ForwardRef(Container)
+  className="makeStyles-container-2"
+  classes={
+    Object {
+      "disableGutters": "MuiContainer-disableGutters",
+      "fixed": "MuiContainer-fixed",
+      "maxWidthLg": "MuiContainer-maxWidthLg",
+      "maxWidthMd": "MuiContainer-maxWidthMd",
+      "maxWidthSm": "MuiContainer-maxWidthSm",
+      "maxWidthXl": "MuiContainer-maxWidthXl",
+      "maxWidthXs": "MuiContainer-maxWidthXs",
+      "root": "MuiContainer-root",
+    }
+  }
+  maxWidth={false}
+>
+  <WithStyles(ForwardRef(Grid))
+    container={true}
+    spacing={3}
+  >
+    <WithStyles(ForwardRef(Grid))
+      item={true}
+      lg={4}
+      sm={6}
+      xs={12}
+    >
+      <CardValueContainer />
+    </WithStyles(ForwardRef(Grid))>
+    <WithStyles(ForwardRef(Grid))
+      item={true}
+      lg={4}
+      sm={6}
+      xs={12}
+    >
+      <DrizzledComponent />
+    </WithStyles(ForwardRef(Grid))>
+    <WithStyles(ForwardRef(Grid))
+      item={true}
+      lg={4}
+      sm={6}
+      xs={12}
+    >
+      <DrizzledComponent />
+    </WithStyles(ForwardRef(Grid))>
+    <WithStyles(ForwardRef(Grid))
+      item={true}
+      lg={12}
+      sm={12}
+      xs={12}
+    >
+      <Styled(MuiBox)>
+        <Styled(MuiBox)
+          mt={2}
+        >
+          <WithStyles(ForwardRef(Tabs))
+            onChange={[Function]}
+            scrollButtons="auto"
+            textColor="secondary"
+            value="tabledeposit"
+            variant="scrollable"
+          >
+            <WithStyles(ForwardRef(Tab))
+              key="tabledeposit"
+              label="Active Deposits"
+              value="tabledeposit"
+            />
+            <WithStyles(ForwardRef(Tab))
+              key="tableborrow"
+              label="Active Borrowed"
+              value="tableborrow"
+            />
+          </WithStyles(ForwardRef(Tabs))>
+        </Styled(MuiBox)>
+        <WithStyles(ForwardRef(Divider)) />
+        <Styled(MuiBox)
+          pb={6}
+          py={3}
+        >
+          <DrizzledComponent />
+        </Styled(MuiBox)>
+      </Styled(MuiBox)>
+    </WithStyles(ForwardRef(Grid))>
+  </WithStyles(ForwardRef(Grid))>
+</ForwardRef(Container)>
+`;

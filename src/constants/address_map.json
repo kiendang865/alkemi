@@ -1,0 +1,12 @@
+{
+    "rinkeby": {
+        "address_MoneyMarket": "0xe6a53F96ceCA750ef8589c5b376872213aa4f230",
+        "address_DSR": "0x8a5C1BD4D75e168a4f65eB902c289400B90FD980",
+        "address_PAX": "0x722E6238335d89393A42e2cA316A5fb1b8B2EB55",
+        "address_USDC": "0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b",
+        "address_USDT": "0x249987094de97C9612b8d04C15Ca8273e43C20AC",
+        "address_WBTC": "0x577d296678535e4903d59a4c929b718e1d575e0a",
+        "address_WETH": "0xC8b1a5ef2e19937dd6c0f804DF2e3efE9F093B1e",
+        "address_DAI": "0x5592EC0cfb4dbc12D3aB100b257153436a1f0FEa"
+    }
+}
